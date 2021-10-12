@@ -63,6 +63,7 @@
                   </svg>
   
                   <span class="text-gray-600">1 Warrior Avatar</span>
+                  <img src="https://00f74ba44b5eeaee382f07149ed43f04c01a4ffa06-apidata.googleusercontent.com/download/storage/v1/b/example_nft/o/knight0.png?jk=AFshE3WUVyuf5VyXPOOKJuk-Mdmw49wMnK5gLvmllo3kv97f4FX4lKWaCe0yMBqixgrrCRVhxeS4xSY1c0sSQmceOeMKokUwI9ZNTZKaoB3BrDOGNIvigtp7dB3VDzUgb6zgU8EqkmqcimEYDXDsJz7dNJPCJ3_UHvvBqYQIUelfCAcv0HTnuFqkrUiLl8OOn3Zkp2OdOWsmCGXRWw-VySbTgYdq7PDNuA9wsyAdRZgGVjOxvE1LD6T9U8orxEjfXwoCptvHPTFyrvAJuVq_CHH5p-hmHmeW6o93gWHnXFekqndm2jTJxAuw2PcqVSIeTfrN-ssEqwOtF5PgzXrpjAoaQNe2bN0t1oWqQRTxcBojb5WBWCG8Wqw7Aj-Nd3jcj96iOUSORbYk3k0Afc94yRpO3JA5v7fsdlM28AYjucUbD_chRbhAU9KEnMCV5DblsmOabklCgaQlkaLWKqSGQHmAgikG7M2_MzaYQUwNfBTiVrwJscY-dvfayA7FcLlDK3JdjLtgtVazkqbTvjwfjaoNZHivqgE4Hkes7hG6lqDGhfspcLPIhO5wHHfsLssBGSw1etPYIRibHid3VPveL7stsw-GEpHnoAfg2HJlI8hGjUHIiNkrV0C3LZhBAolHL26Rusyh3RGglXMYr35nH6w3bNLyIgQNwZMbWPESRb9LloCGAMEvNG8Y3YXz7j5ENuvOXT50XjvanhsEQGF975MF5bZBXD2Kj3nTK4DfbSir10_YNBSGi7-qZ1ZdTNwyueykeidgEMG1gU--SO2ZmnFNwxbasLCMXf3ppRCeBmpI5qXIG6KCeFjkJLDTN2NTA77HNd-EyRmQG3bLLAjxLgJQmaKcNCRYjWmiuiSI0ZWhqLvdzAuTLkfbwREIh5wTTxiIch4dALtlwi-zn3LacDH4-jqU0YtHrXC6xtzuLi1liwlQlvLu9LYhnmmj_VTGUw&isca=1" />
                 </div>
                 <!-- check - end -->
               </div>

@@ -1,0 +1,28 @@
+{
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+    "external_url": "https://simple-nft-rpg.vercel.app", 
+    "image": "https://storage.cloud.google.com/example_nft/knight0.png", 
+    "name": "Warrior",
+    "attributes": [
+        {
+            "display_type": "number",
+            "attribute_type": "Health Points",
+            "value": 5
+        },
+        {
+            "display_type": "number",
+            "attribute_type": "Strenght",
+            "value": 5
+        },
+        {
+            "display_type": "number",
+            "attribute_type": "Dexterity",
+            "value": 3
+        },
+        {
+            "display_type": "number",
+            "attribute_type": "Intelligence",
+            "value": 2
+        }
+    ]
+  }
