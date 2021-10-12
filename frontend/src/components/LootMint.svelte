@@ -63,6 +63,9 @@
   
                   <span class="text-gray-600">2x Weapon SNR (Max LVL5)</span>
                 </div>
+                <div class="w-max mx-auto">
+                  <img src="./sw0rd.png">
+                </div>
                 <!-- check - end -->
               </div>
             </div>
@@ -118,6 +121,9 @@
                   </svg>
   
                   <span class="text-gray-600">2x Armor SNR (Max LVL5)</span>
+                </div>
+                <div class="w-max mx-auto">
+                  <img src="./arm0r.png">
                 </div>
                 <!-- check - end -->
               </div>
